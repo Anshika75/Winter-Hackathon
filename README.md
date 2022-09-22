@@ -1,3 +1,3 @@
-# Winter-Hackathon
+# Hackathon
 
 # View
